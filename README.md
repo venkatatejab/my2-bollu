@@ -39,3 +39,21 @@ Playing sports helps you stay in shape, teaches you how to organize your time, b
 >What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have”
 ― Haruki Murakami, Sputnik Sweetheart
 
+
+```
+
+# code fencing
+
+> [stack overflow link](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop)
+
+```
+<?php query_posts('cat=-3'); ?>
+
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?>
+  <h3></h3>	
+  <p><?php the_time('F jS, Y') ?></p>
+  <?php the_content(); ?>
+<?php endwhile; ?>
+```
+
