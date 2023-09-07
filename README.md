@@ -42,7 +42,7 @@ Playing sports helps you stay in shape, teaches you how to organize your time, b
 
 ```
 
-# code fencing
+# Code Fencing
 
 > [Stack overflow link ](https://stackoverflow.com/questions/57672397/exclude-category-from-this-loop)
 
