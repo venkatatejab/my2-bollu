@@ -31,5 +31,9 @@ Playing sports helps you stay in shape, teaches you how to organize your time, b
 
 ***
 
+# Pithy Quotes
 
+> Mathematicians deal with large numbers sometimes, but never in their income.
+>
+> What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have
 
