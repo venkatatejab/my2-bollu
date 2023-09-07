@@ -44,10 +44,9 @@ Playing sports helps you stay in shape, teaches you how to organize your time, b
 
 # code fencing
 
-> [stack overflow link](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop)
+> [Stack overflow link ](https://stackoverflow.com/questions/57672397/exclude-category-from-this-loop)
 
-```
-<?php query_posts('cat=-3'); ?>
+```<?php query_posts('cat=-3'); ?>
 
 <?php if (have_posts()) : ?>
 <?php while (have_posts()) : the_post(); ?>
@@ -55,5 +54,7 @@ Playing sports helps you stay in shape, teaches you how to organize your time, b
   <p><?php the_time('F jS, Y') ?></p>
   <?php the_content(); ?>
 <?php endwhile; ?>
+
 ```
 
+> [source snippet link ](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop)
