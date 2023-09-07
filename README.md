@@ -15,4 +15,21 @@ its my favourite because it's my hometown.it is in **guntur**. There are differe
 * hot
 * curd
 
+**[My Profile](MyStats.md)**
+
+***
+
+Playing sports helps you stay in shape, teaches you how to organize your time, boosts friendships, and builds relationships with your peers and adults. Through athletics, you gain skills that can best be acquired on a court, track, or field.
+
+| name of a sport| Reason for recommendation | hours in an average week |
+| :---: | :---: | :---: |
+| baseball | Physical Fitness | 5 hours |
+| Cricket | Physical Fitness | 3 hours |
+| seven picks | physical fitness | 2 hours |
+| Badminton | Physical Fitness | 4 hours |
+
+
+***
+
+
 
