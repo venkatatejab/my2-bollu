@@ -10,3 +10,9 @@ its my favourite because it's my hometown.it is in **guntur**. There are differe
 1. drink
 1. play
 
+***
+* sweets
+* hot
+* curd
+
+
